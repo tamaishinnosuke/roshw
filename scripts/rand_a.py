@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#lisence:BSD
+#license:BSD-3-Clause-License
 #Copyright (c) 2020, Shinnosuke Tamai & Ryuichi Ueda.
 #All rights reserved.                                                                                                                                                          
 import rospy
