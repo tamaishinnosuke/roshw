@@ -19,6 +19,8 @@ ROS  noetic
 
 RaspberryPi4
 - デモ動画のリンク
+
+https://youtu.be/EhlntlIjCAg
 - インストール方法
 
 ターミナル
