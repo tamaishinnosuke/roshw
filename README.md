@@ -28,9 +28,14 @@ cd ~/catkin_ws/src/
 git clone https://github.com/ShinnosukeTamai/roshw.git
 
 - 使用方法
+
 ターミナル
+
+chmod +x rand_a.py
 
 roscore &
 
 rosrun roshw rand_a.py
 - ライセンス
+
+BSD-3-clause License
