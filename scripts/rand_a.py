@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#
-#                                                                                                                                                            #                                                                                                                                                            
-
-
+#lisence:BSD
+#Copyright (c) 2020, Shinnosuke Tamai & Ryuichi Ueda.
+#All rights reserved.                                                                                                                                                          
 import rospy
 import random
 import string
